@@ -13,7 +13,7 @@ Conteúdo
 
 Como citar
 
-AMORIM, David Silva. Apêndices do TCC: Dual Stack e IPv6 Only em Provedores Regionais: Avaliação em Laboratório Emulado com BGP, CGNAT e DHCPv6-PD. Versão 1.0.0. Zenodo, 2026. DOI:
+AMORIM, David Silva. Apêndices do TCC: Dual Stack e IPv6 Only em Provedores Regionais: Avaliação em Laboratório Emulado com BGP, CGNAT e DHCPv6-PD. Versão 1.0.0. Zenodo, 2026. DOI: 10.5281/zenodo.24547588
 
 Licença
 Código e configurações sob MIT.
